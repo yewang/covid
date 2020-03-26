@@ -12,3 +12,7 @@ Plotting COVID-19 cases based on the [John Hopkins University data](https://data
 ### Requires
 - pandas
 - matplotlib
+
+### License
+
+Code is MIT license, the plot is generated using data from John Hopkins University, which is available under various Creative Commons licenses (see https://data.humdata.org/about/license).
